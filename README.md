@@ -1,3 +1,24 @@
+# 👋 Hi, I'm Adeshina Ayomide Precious
+
+🌍 I'm a Front-End Web Developer in training, passionate about building clean, creative, and responsive websites.
+
+🍲 Currently working on **Precious Kitchen** — a collection of Nigerian recipes like Jollof Rice, Chicken & Chips, and Egusi Soup.
+
+## 🛠️ Skills
+- HTML5
+- CSS3
+- Git & GitHub
+- Basic Responsive Design
+
+## 📂 Projects
+- 🔗 Precious Kitchen – Coming soon online!
+
+## 📫 Contact Me
+- 📧 Email: adeshinajoseph7@gmail.com  
+- 📞 WhatsApp: 09067889113  
+- 📍 Nigeria  
+
+> “Learning one line of code at a time, and building something beautiful.”
 ## Hi there 👋
 
 <!--
